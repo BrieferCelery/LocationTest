@@ -3,7 +3,7 @@
 	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
 	<application android:label="LocationTest.Android" android:allowBackup="true">
 		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCmo4kPup0f1P7qNHgXfyhjTxbXtuSLBas" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="API KEY GOES HERE" />
 		<meta-data android:name="com.google.android.gms.maps.API_OPTIONS" android:value="B3H9HE845CFHYG" />
 		<service android:name=".GeofenceTransitionsIntentService"/>
 
